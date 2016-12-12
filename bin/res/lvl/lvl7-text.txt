@@ -1,0 +1,9 @@
+The snowmen have made a breach in
+one of your walls, they may now fire
+snowballs into your house through the
+hole that they have made. Just make sure
+you don’t get hit by the snowballs, or
+you will lose.
+
+
+Press [enter] to start.

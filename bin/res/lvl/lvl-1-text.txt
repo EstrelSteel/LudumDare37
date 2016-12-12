@@ -1,0 +1,8 @@
+Game by ESTREL_STEEL
+for the Ludum Dare 37 Compo
+
+Theme: One room
+
+11.12.2016
+
+Press [enter] to start.

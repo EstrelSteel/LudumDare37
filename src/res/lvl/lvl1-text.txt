@@ -1,0 +1,9 @@
+Snowmen are attacking your house.
+They are attempting to break in through various entrances.
+
+Go to possible entrances, like doors or windows, and
+hold [space] to repair them so the snowman cannot enter.
+
+
+
+Press [enter] to start.

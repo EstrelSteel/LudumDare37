@@ -1,0 +1,10 @@
+Endless mode:
+  - Rounds last 30 seconds.
+  - After each round, furniture
+and damage resets.
+  - Every round snowmen are added.
+
+How many rounds will you survive?
+
+
+Press [enter] to start.

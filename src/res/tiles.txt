@@ -1,0 +1,14 @@
+TTY 0 FLOOR_1 false
++cimg /res/img/tiles.png 0 0 16 16
+TTY 1 WALL_1 true
++cimg /res/img/tiles.png 1 0 16 16
+TTY 2 WALL_2 false
++cimg /res/img/tiles.png 2 0 16 16
+TTY 3 WALL_3 true
++cimg /res/img/tiles.png 3 0 16 16
+TTY 4 WINDOW_1 false
++cimg /res/img/tiles.png 4 0 16 16
+TTY 5 DOOR_1_A true
++cimg /res/img/tiles.png 5 1 16 16
+TTY 6 DOOR_1_B false
++cimg /res/img/tiles.png 5 0 16 16

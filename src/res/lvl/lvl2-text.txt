@@ -1,0 +1,10 @@
+Oh no! It looks as if the floor has caved in.
+Try moving furniture in front of the door to
+delay the snowmen's attack.
+
+Click a piece of furniture to move it,
+then click the door to place the furniture
+in front of it.
+
+
+Press [enter] to start.
